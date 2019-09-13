@@ -1,5 +1,5 @@
 body {
-    color: #222222;
+    color: #920e0e;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
  }
@@ -36,6 +36,7 @@ body {
  .details > p {
     font-weight: 300;
     letter-spacing: 0.05em;
+    color: aqua
  }
  .details > h2 {
     font-size: 1.2em;
@@ -55,6 +56,6 @@ body {
   color: #ffffff;
  }
  .social > li {
-  display: inline-block;
+  display: display-outside;
   margin: 0 5px;
  }
